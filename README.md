@@ -1,12 +1,11 @@
-### README.md
+### README.md ##
 
-```markdown
 # Follower Recommender
 
 ## Description
 Follower Recommender is a project implemented in Java that aims to recommend followers based on various criteria. 
 
-## Installation
+## Installation ##
 To install and set up the project locally, follow these steps:
 
 1. **Clone the repository:**
